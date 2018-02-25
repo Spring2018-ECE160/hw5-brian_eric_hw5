@@ -48,7 +48,7 @@ int strend(char* s, char* t)
 	//if while loop is allowed to finish, all of char t == end of char s
 }
 
-int main()
+int main(void)
 {
 	int i;
 	char S_example1[STRLENGTH] = "Sorry but we're all out of money. Anything else you want to order?";
